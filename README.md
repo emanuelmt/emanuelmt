@@ -1,7 +1,7 @@
 - 👋🏻 Hi, I’m @emanuelmt
 - 👀 I’m interested in web developement
-- 👨‍💻 Currently working, at Netshopping, with full stack development using PHP, JavaScript, jQuery and Bootstrap 4.0 (5 years ago)
-- 📚 I’m currently learning GO, Vue, React and Node
+- 👨‍💻 Currently working, at Frete Rápido, with backend development using Node.Js (NestJS), PHP (Laravel/Lumen) and Go
+- 📚 I often try to delve deeper into backend technologies
 - 📫 How to reach me emanuelmtmarques@gmail.com
 
 <!---
