@@ -6,16 +6,16 @@
 
 <h3 align="center">Working with</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,reactivex,jest" />
+    <img src="https://skillicons.dev/icons?i=kotlin,golang,nodejs,ts,php" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=rabbitmq,mongodb,redis,elasticsearch,docker" />
+    <img src="https://skillicons.dev/icons?i=ktor,nestjs,laravel,reactivex,jest" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=kubernetes,aws,grafana,prometheus" />
+    <img src="https://skillicons.dev/icons?i=rabbitmq,redis,mongodb,elasticsearch,postgres" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=golang,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,grafana,prometheus" />
 </p>
 
 <!---
