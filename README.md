@@ -1,12 +1,12 @@
 - 👋🏻 Hi, I’m @emanuelmt
 - 👀 I’m interested in backend web developement
-- 👨‍💻 Tech Lead and Backend Engineer at Frete Rápido
+- 👨‍💻 Backend Engineer at Caju
 - 📚 I often try to delve deeper into backend technologies
 - 📫 How to reach me emanuelmtmarques@gmail.com
 
 <h3 align="center">Working with</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,golang,nodejs,ts,php" />
+    <img src="https://skillicons.dev/icons?i=scala,kotlin,golang,nodejs,ts" />
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=ktor,nestjs,laravel,reactivex,jest" />
